@@ -27,10 +27,10 @@ nano
  ![](img/2022-04-10-02-50-33.png)
 
 Some Commands:
-^G = Get Help
-^X = Exit
-^O = Write Out
-^R = Read File
+- ^G = Get Help
+- ^X = Exit
+- ^O = Write Out
+- ^R = Read File 
 
 ## Utilizations:
 
@@ -44,7 +44,7 @@ Create new file
 Writing something
 `
 
-^O 
-Enter
-^X
+- ^O 
+- Enter
+- ^X
 
